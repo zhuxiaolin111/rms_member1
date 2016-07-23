@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mn\Desktop\rms_member1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa2d1d01e0483558ca7046e0a105967060284c18">
+        <dex dex="C:\Users\mn\Desktop\rms_member1\app\build\intermediates\pre-dexed\debug\instant-run_6e5e86cd07a9e1a91f6eb3a771f775d3dec03f1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mn\Desktop\rms_member1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3308baf60684894130e22ab3665af61784fad611">
+        <dex dex="C:\Users\mn\Desktop\rms_member1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5430e3c046d0f9bbd37935e03932ba1dfc2fe370.jar" />
+    </item>
+
+</items>
