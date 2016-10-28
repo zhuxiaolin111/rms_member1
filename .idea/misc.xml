@@ -53,13 +53,6 @@
             </SvnBranchConfiguration>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/xwalk_core_library-17.46.448.10-arm">
-          <value>
-            <SvnBranchConfiguration>
-              <option name="trunkUrl" value="http://192.168.11.10:81/svn/project/android/rms_member1/xwalk_core_library-17.46.448.10-arm" />
-            </SvnBranchConfiguration>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="mySupportsUserInfoFilter" value="true" />
